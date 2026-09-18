@@ -24,7 +24,7 @@ Simulated dataset (12,000 users, 6,000 per group) with realistic e-commerce fiel
 
 > Simulated to mirror real-world A/B test structure and effect sizes — built this way so the full analysis pipeline (data → test → decision) is demonstrated end-to-end.
 
-## Results
+## Resultss
 
 | Metric | Control (A) | Treatment (B) |
 |---|---|---|
