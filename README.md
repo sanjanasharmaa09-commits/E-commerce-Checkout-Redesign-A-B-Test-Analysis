@@ -10,7 +10,6 @@ An e-commerce team redesigned the checkout flow — replacing a multi-step check
 
 ## Methods Used
 
-
 | Method | Purpose |
 |---|---|
 | Two-proportion z-test | Tests whether the conversion rates of A and B are significantly different |
