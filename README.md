@@ -8,7 +8,7 @@ An e-commerce team redesigned the checkout flow — replacing a multi-step check
 
 > **Did the redesign actually change conversion rate, or could the observed difference be due to random chance?**
 
-## Methods Used
+## Methods Usedd
 
 | Method | Purpose |
 |---|---|
