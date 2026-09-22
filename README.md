@@ -6,9 +6,9 @@ Determining whether a redesigned checkout flow changed conversion rate, using ri
 
 An e-commerce team redesigned the checkout flow — replacing a multi-step checkout (**Control / A**) with a streamlined one-page checkout (**Treatment / B**). This project answers one question with statistical evidence:
 
-> **Did the redesign actually change conversion rate, or could the observed difference be due to random chance?**
+> **Did the redesign actually change conversion rate, or could the observed difference be due to random chance?***
 
-## Methods Usedd
+## Methods Used
 
 | Method | Purpose |
 |---|---|
