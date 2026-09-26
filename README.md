@@ -11,7 +11,7 @@ An e-commerce team redesigned the checkout flow — replacing a multi-step check
 ## Methods Used
 
 | Method | Purpose |
-|---|---|
+
 | Two-proportion z-test | Tests whether the conversion rates of A and B are significantly different |
 | p-value | Quantifies the strength of evidence against the null hypothesis |
 | 95% Confidence Interval | Estimates the plausible range for the true difference in conversion rates |
