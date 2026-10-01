@@ -18,7 +18,7 @@ An e-commerce team redesigned the checkout flow — replacing a multi-step check
 
 ## Dataset
 
-Simulated dataset (12,000 users, 6,000 per group) with realistic e-commerce fields:
+Simulated dataset (12,000 users, 6,000 per group) with realistic e-commerce feilds - 
 `user_id`, `group`, `device_type`, `traffic_source`, `session_duration_sec`, `converted`, `cart_value_usd`
 
 > Simulated to mirror real-world A/B test structure and effect sizes — built this way so the full analysis pipeline (data → test → decision) is demonstrated end-to-end.
