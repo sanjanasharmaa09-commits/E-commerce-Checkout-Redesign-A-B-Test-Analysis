@@ -9,7 +9,7 @@ An e-commerce team redesigned the checkout flow — replacing a multi-step check
 > **Did the redesign actually change conversion rate, or could the observed difference be due to random chance?***
 
 ## Methods Used
-| Method | Purpose |
+ Method | Purpose
 
 | Two-proportion z-test | Tests whether the conversion rates of A and B are significantly different |
 | p-value | Quantifies the strength of evidence against the null hypothesis |
